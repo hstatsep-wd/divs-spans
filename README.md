@@ -1,6 +1,6 @@
 # DIVs and SPANs
 ---
-_The purpose of this project is to help you practice using_ `<div>` _and_ `<span>` _elements in their proper syntax._
+_The purpose of this task is to help you practice using_ `<div>` _and_ `<span>` _elements in their proper syntax._
 
 ## Before you begin
 Observe the files in this project:  
