@@ -11,7 +11,6 @@ Observe the files in this project:
 * `style.css` is the styling that will make `index.html` look pretty. You're welcome. (you do not need to edit this file)
 
 ## Directions
-* Fork this project.
 * Wrap all content inside `body` in one `div` with the attribute `class="wrapper"`.  
   * Don't forget to add a `</div>` at the end (right before `</body>`).
 * Wrap all similarities in one `div` with the attribute `class="similarities"`.  
